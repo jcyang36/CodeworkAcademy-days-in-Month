@@ -1,0 +1,1 @@
+This is a program that accepts the number of a month and outputs the number of days in a month.
